@@ -6,35 +6,35 @@ The code is a little different from the Wunderlich.com example, but all the same
 
 Enjoy!
 
-# Project 01
+### Project 01
 
 This is the starting point for an OpenGL project on iOS. 
 
-# Project 02
+### Project 02
 
 Now we create the color buffer, clear the background and add the CADisplayLink for rendering the frames.
 
-# Project 03
+### Project 03
 
 Adding some vertex buffers and a simple static square.
 
-# Project 04
+### Project 04
 
 Adding a project matrix.
 
-# Project 05
+### Project 05
 
 Adding a model/view matrix.
 
-# Project 06 
+### Project 06 
 
 Creating a box and introducing face culling and the depth buffer.
 
-# Project 07
+### Project 07
 
 Adding a Vertex struct and rotating the box.
 
-# Project 08 
+### Project 08 
 
 Showing how to use textures on a simple flat surface.
 
